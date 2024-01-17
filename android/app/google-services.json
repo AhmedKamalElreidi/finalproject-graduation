@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "494337126457",
+    "project_id": "new-capital-ecom",
+    "storage_bucket": "new-capital-ecom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494337126457:android:7f3d6dad2bf93980a0dde8",
+        "android_client_info": {
+          "package_name": "com.genius.final_project_ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494337126457-fma30ncnfh9a3lhq4avo8on4odnhsbpo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHzbT6aIqo5RCbClD_3PoRn5yN8iNZ910"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494337126457-fma30ncnfh9a3lhq4avo8on4odnhsbpo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
