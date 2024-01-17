@@ -1,7 +1,6 @@
 # Graduation-Project Aqar broker
 
-## E-commerce & decision support system app for real estate agents to show the features of the new cities for residents.
-## and create an electronic market for residential units there without the need to return to the human element. 
+## E-commerce & decision support system app for real estate agents to show the features of the new cities for residents. and create an electronic market for residential units there without the need to return to the human element. 
 
 ## Key Features:
 - Bloc | Cubit state management for a reactive UI.
